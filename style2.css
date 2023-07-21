@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+header {
+    background-color:steelblue;
+    padding: 5px;
+}
+
+footer {
+    background-color: steelblue;
+    padding: 20px;
+}
+
+footer p {
+    padding-left: 30px;
+    color: white;
+}
+
+header a {
+    display: inline-block;
+    background-color: orange;
+    padding: 0px;
+    margin-left: 5px;
+    border-radius: 5px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+header img {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+main img {
+    margin: 10px;
+}
+
+main h2 {
+    color: rgb(226, 57, 27);
+}
