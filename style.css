@@ -12,9 +12,11 @@ footer {
     padding: 5px;
 }
 
-footer p {
+footer a {
     padding-left: 30px;
     color: white;
+    text-decoration: none;
+    color: black;
 }
 
 header p {
